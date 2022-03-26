@@ -49,6 +49,6 @@ object AdsUtils {
     // jika mau offline, kosongkan ""
     // jika offline, jangan lupa set username & albums pinterest di file Constants
     // dan untuk di file ini harap diisi semua dengan benar, sehingga ketika gagal load ads json online, masih bisa menggunakan config ads offline
-    var ADS_JSON_URL = "https://raw.githubusercontent.com/jeki21/joksee/main/Blackaestheticwallpapers.json"
+    var ADS_JSON_URL = "https://raw.githubusercontent.com/jeki21/joksee/main/BirdWallpaperHD.json"
 
 }
