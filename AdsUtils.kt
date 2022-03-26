@@ -16,12 +16,12 @@ object AdsUtils {
     )
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
-    var ADMOB_APP_ID = "ca-app-pub-9601865255535750~2307037908"
+    var ADMOB_APP_ID = "ca-app-pub-9601865255535750~1222316246"
 
     // ADMOB IKLAN ID
-    var ADMOB_BANNER_ID = "ca-app-pub-9601865255535750/5180651249"
-    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-9601865255535750/2554487907"
-    var ADMOB_NATIVE_ID = "ca-app-pub-9601865255535750/9869833156"
+    var ADMOB_BANNER_ID = "ca-app-pub-9601865255535750/6186868310"
+    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-9601865255535750/1620953254"
+    var ADMOB_NATIVE_ID = "ca-app-pub-9601865255535750/9116299891"
 
     // interval interstitial tiap klik logo, save, atau set logo
     var INTERSTITIAL_INTERVAL = 3
@@ -41,7 +41,7 @@ object AdsUtils {
     var STARTAPP_APP_ID = "1234567"
 
     //UNITY
-    var UNITY_ID = "1234567"
+    var UNITY_ID = "4661481"
     var UNITY_BANNER = "Banner_Android"
     var UNITY_INTERSTITIAL = "Interstitial_Android"
 
